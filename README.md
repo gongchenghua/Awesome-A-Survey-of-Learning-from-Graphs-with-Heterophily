@@ -167,7 +167,6 @@ Further, we present the high-frequency keywords that appear in the titles of col
 - [OpenReview] **Molecule Generation by Heterophilious Triple Flows** [[Paper](https://openreview.net/forum?id=bZHz9WYs9z)], [Code]
 - [OpenReview] **NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification** [[Paper](https://arxiv.org/abs/2409.06998)], [Code]
 - [OpenReview] **Leveraging Invariant Principle for Heterophilic Graph Structure Distribution Shifts** [[Paper](https://arxiv.org/abs/2408.09490)], [Code]
-- [OpenReview] **Urban Region Pre-training and Prompting: A Graph-based Approach** [[Paper](https://arxiv.org/abs/2408.05920)], [Code]
 
 - [Arxiv] **Learning Personalized Scoping for Graph Neural Networks under Heterophily** [[Paper](https://arxiv.org/abs/2409.06998)], [Code]
 - [Arxiv] **Differentiable Cluster Graph Neural Network** [[Paper](https://arxiv.org/abs/2405.16185)], [Code]
@@ -180,7 +179,6 @@ Further, we present the high-frequency keywords that appear in the titles of col
 - [Arxiv] **Learn from Heterophily: Heterophilous Information-enhanced Graph Neural Network** [[Paper](https://arxiv.org/pdf/2403.17351)], [Code]
 - [Arxiv] **Link Prediction under Heterophily: A Physics-Inspired Graph Neural Network Approach** [[Paper](https://arxiv.org/pdf/2402.14802)], [Code]
 
-- [Arxiv] **Provable Filter for Real-world Graph Clustering** [[Paper](https://arxiv.org/pdf/2403.03666)], [Code]
 - [Arxiv] **HENCLER: Node Clustering in Heterophilous Graphs through Learned Asymmetric Similarity** [[Paper](https://arxiv.org/pdf/2405.17050)], [Code]
 - [Arxiv] **UniGAP: A Universal and Adaptive Graph Upsampling Approach to Mitigate Over-Smoothing in Node Classification Tasks** [[Paper](https://arxiv.org/pdf/2407.19420)], [Code]
 - [Arxiv] **Learning a Mini-batch Graph Transformer via Two-stage Interaction Augmentation** [[Paper](https://arxiv.org/abs/2407.09904)], [Code]
@@ -191,8 +189,6 @@ Further, we present the high-frequency keywords that appear in the titles of col
 - [Arxiv] **Generation is better than Modification: Combating High Class Homophily Variance in Graph Anomaly Detection** [[Paper](https://arxiv.org/abs/2403.10339)], [Code]
 - [Arxiv] **Heterophily-Aware Fair Recommendation using Graph Convolutional Networks** [[Paper](https://arxiv.org/abs/2402.03365)], [Code]
 - [Arxiv] **When Heterophily Meets Heterogeneous Graphs: Latent Graphs Guided Unsupervised Representation Learning** [[Paper](https://arxiv.org/abs/2409.00687)], [Code]
-
-
 
 - [Arxiv] **Exploring the Potential of Large Language Models for Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2408.14134)], [Code]
 
@@ -322,7 +318,6 @@ Further, we present the high-frequency keywords that appear in the titles of col
 - [Arxiv] **SignGT: Signed Attention-based Graph Transformer for Graph Representation Learning**  [[Paper](https://arxiv.org/abs/2310.11025)], [Code]
 - [Arxiv] **Contrastive Learning for Non-Local Graphs with Multi-Resolution Structural Views**  [[Paper](https://arxiv.org/abs/2308.10077)], [Code]
 
-- [Arxiv] **Extended Graph Assessment Metrics for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2307.10112)], [Code]
 - [Arxiv] **Muti-scale Graph Neural Network with Signed-attention for Social Bot Detection: A Frequency Perspective**  [[Paper](https://arxiv.org/abs/2307.01968)], [Code]
 - [Arxiv] **Automated Polynomial Filter Learning for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2307.07956)], [Code]
 
@@ -334,19 +329,12 @@ Further, we present the high-frequency keywords that appear in the titles of col
 
 - [Arxiv] **Self-attention Dual Embedding for Graphs with Heterophily** [[Paper](https://arxiv.org/abs/2305.18385)], [Code]
 - [Arxiv] **SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation** [[Paper](https://arxiv.org/abs/2305.09958)], [Code]
-
-
 - [Arxiv] **Steering Graph Neural Networks with Pinning Control** [[Paper](https://arxiv.org/abs/2303.01265)], [Code]
-
-
 - [Arxiv] **Semi-Supervised Classification with Graph Convolutional Kernel Machines** [[Paper](https://arxiv.org/abs/2301.13764)], [Code]
-- [Arxiv] **A Graph Neural Network with Negative Message Passing for Graph Coloring** [[Paper](https://arxiv.org/abs/2301.11164)], [Code]
 - [Arxiv] **Is Signed Message Essential for Graph Neural Networks?** [[Paper](https://arxiv.org/abs/2301.08918)], [Code]
 - [Arxiv] **Self-attention Dual Embedding for Graphs with Heterophily** [[Paper](https://arxiv.org/abs/2305.18385)], [Code]
 - [Arxiv] **The Snowflake Hypothesis: Training Deep GNN with One Node One Receptive field** [[Paper](https://arxiv.org/abs/2308.10051)], [Code]
 - [Arxiv] **Contrastive Learning for Non-Local Graphs with Multi-Resolution Structural Views** [[Paper](https://arxiv.org/abs/2308.10077)], [Code]
-
-
 - [Arxiv] **Hetero2Net: Heterophily-aware Representation Learning on Heterogenerous Graphs** [[Paper](https://arxiv.org/abs/2310.11664)], [Code]
 
 
@@ -427,19 +415,13 @@ Further, we present the high-frequency keywords that appear in the titles of col
 - [Arxiv] **Neighborhood Convolutional Network: A New Paradigm of Graph Neural Networks for Node Classification** [[Paper](https://arxiv.org/abs/2211.07845)], [Code]
 - [Arxiv] **Enhancing Intra-class Information Extraction for Heterophilous Graphs: One Neural Architecture Search Approach** [[Paper](https://arxiv.org/abs/2211.10990)], [Code]
 - [Arxiv] **Transductive Kernels for Gaussian Processes on Graphs** [[Paper](https://arxiv.org/abs/2211.15322)], [Code]
-
 - [Arxiv] **When Do We Need GNN for Node Classification?** [[Paper](https://arxiv.org/abs/2210.16979)], [Code]
-
-
 - [Arxiv] **Graph Polynomial Convolution Models for Node Classification of Non-Homophilous Graphs** [[Paper](https://arxiv.org/abs/2209.05020)], [[Code](https://github.com/kishanwn/GPCN)]
 - [Arxiv] **Link Prediction on Heterophilic Graphs via Disentangled Representation Learning** [[Paper](https://arxiv.org/abs/2208.01820)], [[Code](https://github.com/sjz5202/DisenLink)]
-
 - [Arxiv] **Restructuring Graph for Higher Homophily via Learnable Spectral Clustering** [[Paper](https://arxiv.org/abs/2206.02386)], [Code]
 
 - [Arxiv] **Augmentation-Free Graph Contrastive Learning with Performance Guarantee** [[Paper](https://arxiv.org/abs/2204.04874)], [Code]
-
 - [Arxiv] **Revisiting the Role of Heterophily in Graph Representation Learning: An Edge Classification Perspective** [[Paper](https://arxiv.org/abs/2205.11322)], [Code]
-
 - [Arxiv] **Incorporating Heterophily into Graph Neural Networks for Graph Classification** [[Paper](https://arxiv.org/abs/2203.07678)], [[Code](https://github.com/yeweiysh/IHGNN)]
 
 - [Arxiv] **Enhancing Intra-class Information Extraction for Heterophilous Graphs: One Neural Architecture Search Approach** [[Paper](https://arxiv.org/abs/2211.10990)], [Code]

@@ -194,7 +194,6 @@ Further, we present the high-frequency keywords that appear in the titles of col
 
 
 
-
 - [Arxiv] **Exploring the Potential of Large Language Models for Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2408.14134)], [Code]
 
 ## Year 2023

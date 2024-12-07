@@ -30,6 +30,8 @@ Further, we present the high-frequency keywords that appear in the titles of col
 - [KDD 2025] **Graph Triple Attention Network: A Decoupled Perspective** [[Paper](https://arxiv.org/abs/2408.07654)], [Code]
 - [KDD 2025] **Non-Homophilic Graph Pre-Training and Prompt Learning** [[Paper](https://arxiv.org/abs/2408.12594)], [Code]
 
+- [WSDM 2025] **Heterophilic Graph Neural Networks Optimization with Causal Message-passing** [[Paper](https://arxiv.org/abs/2411.13821)], [Code]
+  
 ## Year 2024
 
 - [NIPS 2024] **A Fractional Graph Laplacian Approach to Oversmoothing** [[Paper](https://arxiv.org/abs/2305.13084)], [[Code](https://github.com/RPaolino/fLode)]
@@ -191,6 +193,9 @@ Further, we present the high-frequency keywords that appear in the titles of col
 - [Arxiv] **When Heterophily Meets Heterogeneous Graphs: Latent Graphs Guided Unsupervised Representation Learning** [[Paper](https://arxiv.org/abs/2409.00687)], [Code]
 
 - [Arxiv] **Exploring the Potential of Large Language Models for Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2408.14134)], [Code]
+- [Arxiv] **Addressing Heterogeneity and Heterophily in Graphs: A Heterogeneous Heterophilic Spectral Graph Neural Network** [[Paper](https://arxiv.org/abs/2410.13373)], [[Code](https://github.com/Lukangkang123/H2SGNN/)]
+- [Arxiv] **Structure-Guided Input Graph for GNNs facing Heterophily** [[Paper](https://arxiv.org/abs/2412.01757)], [Code]
+- [Arxiv] **Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2411.11284)], [Code]
 
 ## Year 2023
 

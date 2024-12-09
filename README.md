@@ -109,6 +109,8 @@ Further, we present the high-frequency keywords that appear in the titles of col
 
 - [LoG 2024] **On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks** [[Paper](https://proceedings.mlr.press/v231/loveland24a.html)], [Code]
 - [LoG 2024] **Edge Directionality Improves Learning on Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2305.10498)], [Code]
+- [LoG 2024] **Edge-Splitting MLP: Node Classification on Homophilic and Heterophilic Graphs without Message Passing** [[Paper](https://openreview.net/pdf?id=BQEb4r21cm)], [Code]
+
 
 - [ICPR 2024] **Heterophily-aware Social Bot Detection with Supervised Contrastive Learning** [[Paper](https://arxiv.org/abs/2306.07478)], [Code]
 - [ACML 2024] **Unleashing the Power of High-pass Filtering in Continuous Graph Neural Networks** [[Paper](https://proceedings.mlr.press/v222/zhang24e.html)], [Code]

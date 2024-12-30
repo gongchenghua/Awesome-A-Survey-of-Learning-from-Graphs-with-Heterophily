@@ -1,4 +1,4 @@
-# A Survey on Learning from Graphs with Heterophily: Progress and Future
+# A Survey on Learning from Graphs with Heterophily: Recent Advances and Future Directions
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![](https://img.shields.io/github/last-commit/gongchenghua/Papers-Graphs-with-Heterophily?color=blue)  ![Stars](https://img.shields.io/github/stars/gongchenghua/Awesome-A-Survey-of-Learning-from-Graphs-with-Heterophily?color=red) ![Forks](https://img.shields.io/github/forks/gongchenghua/Awesome-A-Survey-of-Learning-from-Graphs-with-Heterophily?color=blue&label=Fork)
 
@@ -19,7 +19,7 @@ Meanwhile, the distribution of sources for collected papers published is given a
 Further, we present the high-frequency keywords that appear in the titles of collected papers.
 
 # Surveys
-- [Arxiv 2024] **A Survey on Learning from Graphs with Heterophily:Progress and Future** [[Paper](https://arxiv.org/abs/2401.09769)]
+- [Arxiv 2024] **A Survey on Learning from Graphs with Heterophily: Recent Advances and Future Directions** [[Paper](https://arxiv.org/abs/2401.09769)]
 - [Arxiv 2024] **The Heterophilic Graph Learning Handbook: Benchmarks, Models, Theoretical Analysis, Applications and Challenges** [[Paper](https://arxiv.org/abs/2407.09618)]
 - [IEEE DBE 2023] **Heterophily and Graph Neural Networks: Past, Present and Future** [[Paper](https://par.nsf.gov/servlets/purl/10435541)]
 - [Arxiv 2022] **Graph Neural Networks for Graphs with Heterophily: A Survey** [[Paper](https://arxiv.org/abs/2202.07082)]
@@ -107,10 +107,11 @@ Further, we present the high-frequency keywords that appear in the titles of col
 
 - [WSDM 2024] **Gad-nr: Graph anomaly detection via neighborhood reconstruction** [[Paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635767)], [Code]
 
+- [LoG 2024] **Revisiting Graph Homophily Measures** [[Paper](https://openreview.net/forum?id=fiFBjLD0LV)], [Code]
 - [LoG 2024] **On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks** [[Paper](https://proceedings.mlr.press/v231/loveland24a.html)], [Code]
 - [LoG 2024] **Edge Directionality Improves Learning on Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2305.10498)], [Code]
 - [LoG 2024] **Edge-Splitting MLP: Node Classification on Homophilic and Heterophilic Graphs without Message Passing** [[Paper](https://openreview.net/pdf?id=BQEb4r21cm)], [Code]
-
+- [LoG 2024] **Flexible Diffusion Scopes with Parameterized Laplacian for Heterophilic Graph Learning** [[Paper](https://openreview.net/pdf?id=7sJ3oAr4P4)], [Code]
 
 - [ICPR 2024] **Heterophily-aware Social Bot Detection with Supervised Contrastive Learning** [[Paper](https://arxiv.org/abs/2306.07478)], [Code]
 - [ACML 2024] **Unleashing the Power of High-pass Filtering in Continuous Graph Neural Networks** [[Paper](https://proceedings.mlr.press/v222/zhang24e.html)], [Code]

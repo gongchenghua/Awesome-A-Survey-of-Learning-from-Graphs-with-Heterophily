@@ -19,7 +19,7 @@ Meanwhile, the distribution of sources for collected papers published is given a
 Further, we present the high-frequency keywords that appear in the titles of collected papers.
 
 # Surveys
-- [Arxiv 2024] **A Survey on Learning from Graphs with Heterophily: Recent Advances and Future Directions** [[Paper](https://arxiv.org/abs/2401.09769)]
+- [FCS] **A Survey on Learning from Graphs with Heterophily: Recent Advances and Future Directions** [[Paper](https://arxiv.org/abs/2401.09769)]
 - [Arxiv 2024] **The Heterophilic Graph Learning Handbook: Benchmarks, Models, Theoretical Analysis, Applications and Challenges** [[Paper](https://arxiv.org/abs/2407.09618)]
 - [IEEE DBE 2023] **Heterophily and Graph Neural Networks: Past, Present and Future** [[Paper](https://par.nsf.gov/servlets/purl/10435541)]
 - [Arxiv 2022] **Graph Neural Networks for Graphs with Heterophily: A Survey** [[Paper](https://arxiv.org/abs/2202.07082)]
@@ -27,13 +27,38 @@ Further, we present the high-frequency keywords that appear in the titles of col
 # Papers published per year
 
 ## Year 2025
+- [ICLR 2025] **Spectro-Riemannian Graph Neural Networks** [[Paper](https://arxiv.org/abs/2502.00401)], [Code]
+- [WWW 2025] **Str-GCL: Structural Commonsense Driven Graph Contrastive Learning** [[Paper](https://openreview.net/forum?id=zefCoSncYR#discussion)], [Code]
+- [WWW 2025] **Diffusion-based Graph-agnostic Clustering** [[Paper](https://openreview.net/forum?id=HoIvUVPMwH#discussion)], [Code]
+- [WWW 2025] **Graph Wave Networks** [[Paper](https://openreview.net/pdf?id=smJ1GcDfIs)], [Code]
 - [KDD 2025] **Graph Triple Attention Network: A Decoupled Perspective** [[Paper](https://arxiv.org/abs/2408.07654)], [Code]
 - [KDD 2025] **Non-Homophilic Graph Pre-Training and Prompt Learning** [[Paper](https://arxiv.org/abs/2408.12594)], [Code]
 
 - [WSDM 2025] **Heterophilic Graph Neural Networks Optimization with Causal Message-passing** [[Paper](https://arxiv.org/abs/2411.13821)], [Code]
-  
-## Year 2024
 
+- [Arxiv] **On the Homophily of Heterogeneous Graphs: Understanding and Unleashing** [[Paper](https://arxiv.org/abs/2501.14600)], [Code]
+- [Arxiv] **A Label-Free Heterophily-Guided Approach for Unsupervised Graph Fraud Detection** [[Paper](https://arxiv.org/abs/2502.13308)], [Code]
+- [Arxiv] **Homophily Heterogeneity Matters in Graph Federated Learning: A Spectrum Sharing and Complementing Perspective** [[Paper](https://arxiv.org/abs/2502.13732)], [Code]
+- [Arxiv] **Homophily-aware Heterogeneous Graph Contrastive Learning** [[Paper](https://arxiv.org/abs/2501.08538)], [Code]
+- [Arxiv] **Mixture of Decoupled Message Passing Experts with Entropy Constraint for General Node Classification** [[Paper](https://arxiv.org/abs/2502.08083)], [Code]
+- [Arxiv] **Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs** [[Paper](https://arxiv.org/abs/2502.12352)], [Code]
+- [Arxiv] **Large-Scale Spectral Graph Neural Networks via Laplacian Sparsification: Technical Report** [[Paper](https://arxiv.org/abs/2501.04570)], [Code]
+- [Arxiv] **Rethinking Tokenized Graph Transformers for Node Classification** [[Paper](https://arxiv.org/abs/2502.08101)], [Code]
+
+## Year 2024
+- [NIPS 2024] **Linear Uncertainty Quantification of Graphical Model Inference** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1dc9fbdb6b4d9955ad377cb983232c9f-Abstract-Conference.html)], [Code]
+- [NIPS 2024] **Graph Neural Networks Need Cluster-Normalize-Activate Modules** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/91b1966914203338495a76d13b23599c-Abstract-Conference.html)], [Code]
+- [NIPS 2024] **The Intelligible and Effective Graph Neural Additive Network** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a4c3a66ed818455b8bbe591b6a5d0f56-Abstract-Conference.html)], [Code]
+- [NIPS 2024] **ARC: A Generalist Graph Anomaly Detector with In-Context Learning** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5acb720a361eecb34ee62d356859d246-Abstract-Conference.html)], [Code]
+- [NIPS 2024] **Equivariant Machine Learning on Graphs with Nonlinear Spectral Filters** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e742e93b9f709f522986f53eeebaeef7-Abstract-Conference.html)], [Code]
+- [NIPS 2024] **GFT: Graph Foundation Model with Transferable Tree Vocabulary** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c23ccf9eedf87e4380e92b75b24955bb-Abstract-Conference.html)], [Code]
+- [NIPS 2024] **Revisiting, Benchmarking and Understanding Unsupervised Graph Domain Adaptation** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a2c548b2ed3141400d86a235eaa6fad0-Abstract-Datasets_and_Benchmarks_Track.html)], [Code]
+- [NIPS 2024] **Distributed-Order Fractional Graph Operating Network** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bb49e1fb9845daf322bb92e0b0ce1c1a-Abstract-Conference.html)], [Code]
+- [NIPS 2024] **Generalizing CNNs to graphs with learnable neighborhood quantization** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/95ddc8f24ad9698e3f2c4a014602ee74-Abstract-Conference.html)], [Code]
+- [NIPS 2024] **UGC: Universal Graph Coarsening** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/733209a1f12071a7ec979e8ffaeb1d99-Abstract-Conference.html)], [Code]
+- [NIPS 2024] **Unitary Convolutions for Learning on Graphs and Groups** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f775e2e0e7e12227adecbbf945f43546-Abstract-Conference.html)], [Code]
+- [NIPS 2024] **Theoretical and Empirical Insights into the Origins of Degree Bias in Graph Neural Networks** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0f94c552e5fe82bc152494985e34bd48-Abstract-Conference.html)], [Code]
+- [NIPS 2024] **Unifying Homophily and Heterophily for Spectral Graph Neural Networks via Triple Filter Ensembles** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a9db2b121c3517fd559ecbe5038701ee-Abstract-Conference.html)], [Code]
 - [NIPS 2024] **A Fractional Graph Laplacian Approach to Oversmoothing** [[Paper](https://arxiv.org/abs/2305.13084)], [[Code](https://github.com/RPaolino/fLode)]
 - [NIPS 2024] **Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers** [[Paper](https://arxiv.org/pdf/2406.19258)], [Code]
 - [NIPS 2024] **What Is Missing In Homophily? Disentangling Graph Homophily For Graph Neural Networks** [[Paper](https://arxiv.org/abs/2406.18854)], [Code]
